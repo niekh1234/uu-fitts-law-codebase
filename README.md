@@ -1,5 +1,7 @@
 # uu-FITS
 
+Program written bij Niek Hagen for an experiment to gather data on Fitt's law.
+
 ## Build Setup
 
 ```bash
